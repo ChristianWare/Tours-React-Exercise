@@ -1,4 +1,7 @@
 import './App.css';
+import Loading from './Loading';
+import Tours from './Tours'
+
 
 function App() {
   return (
@@ -9,3 +12,4 @@ function App() {
 }
 
 export default App;
+ 
